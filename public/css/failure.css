@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+.main{
+    display: flex;
+    height: 97vh;
+    justify-content: center;
+    align-items: center;
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  .footer-class{
+      color: red;
+    
+      font-size: 2rem;
+  }
+  .content{
+      margin-left: 321px;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }

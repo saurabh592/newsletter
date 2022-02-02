@@ -1,0 +1,48 @@
+body{
+   background-color: aqua; 
+   display: flex;
+   height: 97.5vh;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.main-container{
+    background-color: #f0ececef;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* height: 97vh; */
+    width: 30%;
+    height: 65%;
+
+}
+.icons{
+border-radius: 75%;
+}
+h1{
+    font-size: 2rem;
+    font-weight: bold;
+
+}
+.fname{
+    padding: 10px 30px;
+    text-align: center;
+
+}
+.Mname{
+    padding: 10px 30px;
+    text-align: center;
+}
+.Lname{
+    padding: 10px 30px;
+    text-align: center;
+}
+.button{
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(36, 36, 148);
+  color: #fff;
+  font-size: larger;
+  cursor: pointer;
+}
