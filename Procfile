@@ -1,1 +1,1 @@
-web:node sign.js
+web: node sign.js
